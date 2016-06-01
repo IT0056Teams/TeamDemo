@@ -16,7 +16,11 @@
 @end
 
 @implementation ViewController
-
+/**
+ *  //////
+ *
+ *  @return ///////
+ */
 - (UISlider *)mySlider {
     if (_mySlider == nil) {
         _mySlider = [[UISlider alloc] init];

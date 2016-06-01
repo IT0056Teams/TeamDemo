@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+//45645
 @interface ViewController ()
 
 @property (nonatomic,strong) UISlider *mySlider;

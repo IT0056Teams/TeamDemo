@@ -5,8 +5,7 @@
 //  Created by student on 16/5/21.
 //  Copyright © 2016年 Henry_kenter. All rights reserved.
 //
-//534165456123
-//vdsfsfds
+
 #import "ViewController.h"
 
 @interface ViewController ()
@@ -37,6 +36,10 @@
         [self.view addSubview:_mySlider];
     }
     return _mySlider;
+    
+    NSLog(@"123456789");
+    
+    
 }
 
 - (UIImageView *)myImageView {
